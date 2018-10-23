@@ -1,0 +1,1 @@
+# price-decimal-magento2
