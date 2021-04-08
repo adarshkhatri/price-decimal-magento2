@@ -1,3 +1,8 @@
+<h1>This extension is permanantly moved to https://github.com/sagoontech/magento2-price-decimal</h1>
+
+<h2>If you have installed this then please disable it: <code>bin/magento module:disable EasyMart_PriceDecimal</code></h2>
+<hr>
+
 This extension will allow you to remove only `.00` from your frontend product prices.
 
 Remove ".00" decimal from price in magento2
