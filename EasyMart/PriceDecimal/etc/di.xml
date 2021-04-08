@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">	
-	<type name="Magento\Framework\Pricing\Render\Amount">
-        <plugin name="easymart_price_decimal_pricing_renderer_amount" type="EasyMart\PriceDecimal\Plugin\Pricing\Render\Amount" sortOrder="10" disabled="false"/>
-    </type>
-	<type name="Magento\Tax\Block\Item\Price\Renderer">
-        <plugin name="easymart_price_decimal_block_item_price_renderer" type="EasyMart\PriceDecimal\Plugin\Block\Item\Price\Renderer" sortOrder="10" disabled="false"/>
-    </type>
-</config>
